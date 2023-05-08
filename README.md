@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in learning about back-end development
 - 
-- 🌱 I’m currently learning HTML, CSS and JS, node comes soon,
+- 🌱 I’m currently Node.js, AWS, SQL and a little bit of Java
 - 
 - 📫 You can reach me on henriqueevidal@hotmail.com and on discord, HenriqueeVidal
 
